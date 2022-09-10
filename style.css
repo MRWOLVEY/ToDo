@@ -54,6 +54,10 @@ ul{
     margin-left: 1rem;
 }
 
+input{
+    width:80%;
+}
+
 .libtn{
     background-color: rgba(0, 0, 0, 0);
     border: 0; 
